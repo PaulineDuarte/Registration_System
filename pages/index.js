@@ -1,6 +1,6 @@
 import { getCookie} from "cookies-next"
 import { useEffect } from "react"
-import { verifica } from "./services/user"
+import { verifica } from "../services/user"
 
 
 export default function Home() {
